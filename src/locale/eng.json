@@ -1,0 +1,170 @@
+{
+
+    "TUTORIAL": {
+        "Skip": "Skip"
+    },
+    "COMMON_TXT":{
+        "Bottom_Body_Txt":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from  by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from  by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation b",
+        "Decline":"Decline",
+        "Pleaseconfirm":"Please Confirm",
+        "Continue_start":"Continue & Start",
+        "Confirm_booking":"Confirm booking",
+        "Cancel":"Cancel",
+        "Cancel_booking":"Cancel booking",
+        "Cancel_Booking":"Cancel Booking",
+        "Accept":"Accept",
+        "Delete":"Delete"
+
+    },
+    "SIGN_IN": {
+        "Sign_in":"Sign In",
+        "Email": "Enter your email address",
+        "Password": "Enter your password",
+        "Continue": "Continue",
+        "Forgot_Password": "Forgot Password?",
+        "Remember_me": "Remember me",
+        "Dont_have_account": "Not a member yet? ",
+        "Join_now":"Join now",
+        "Or_sign_with":"Or sign in with",
+        "sign_with_facebook":"Sign In with Facebook",
+        "Email_error": "Please enter email.",
+        "Password_error": "Please enter password."
+    },
+    "QUALIFICATION": {
+        "Complte_qualification": "Complete your qualification form",
+        "Are_your_qualified": "Are you a qualified parctioner ? ",
+        "qualifications": "qualifications",
+        "Qualification": "Qualifications",
+        "I_am_qualified": "Yes, I am qualified in at least one of the above ",
+        "I_still_trainning": "I am still training to qualify in one of the above",
+        "Massage_Question": "Which massage treatments do you offer ?",
+        "Beauty_Question": "Which beauty treatments do you offer ?",
+        "Fitness_Question": "Which fitness treatments do you offer ?",
+        "Lifestyle_Question": "Which lifestyle fitness treatments do you offer ?",
+        "Continue": "Continue"
+    },
+    "DRAWER": {
+        "Notification": "Notification",
+        "Change_Password": "Change Password",
+        "Earnings": "Earnings",
+        "Messages": "Messages",
+        "Contact_Us": "Contact Us",
+        "FAQs": "FAQs",
+        "Privacy_Policy": "Privacy Policy",
+        "Terms_of_use": "Terms of use",
+        "Rate_us": "Rate us on play store",
+        "Share_app": "Share the app",
+        "Checkout_Customer_app": "Checkout the Customer app!",
+        "Follow_us": "Follow us on",
+        "Logout": "Log Out",
+        "logout_status": "Are you sure you want to log out from the app?",
+        "YES": "Yes",
+        "NO": "No"
+    },
+    "CHECKOUT": {
+        "Checkout_status": "Become customer for individual use or be a corporate user for exciting offers.",
+        "Checkout_practitioner": "Checkout our customer app",
+        "Customer": "Customer App"
+    },
+    "CONTACTUS": {
+        "Contactus_status": "We always love to hear from our family. Please write us through following avenues-",
+        "Write_something": "Write something to us...",
+        "SEND": "Send",
+        "Contactus": "Contact Us"
+    },
+    "MESSAGES": {
+        "messages": "Messages",
+        "send": "SEND",
+        "Typing": "Typing......"
+    },
+    "CHNAGEPASSWORD": {
+        "confirmpassword_error": "Please enter Confirm Password.",
+        "new_Password_error": "Please enter New Password.",
+        "old_Password_error": "Please enter your Old Password.",
+        "old_password": "Old Password",
+        "new_password": "New Password",
+        "Confirm_password": "Confirm Password",
+        "Enter_old_password": "Enter your old password",
+        "Enter_new_password": "Enter your new Password",
+        "Reenter_password": "Re-enter password"
+    },
+    "NOTIFICATIONS": {
+        "Notification": "Notifications"
+    },
+    "PROFILE": {
+        "My_Profile": "My Profile",
+        "Edit_Profile": "Edit Profile",
+        "Name":"Name",
+        "Email_address":"Email Address",
+        "Mobile_Number":"Mobile Number",
+        "Email_error": "Please enter email address.",
+        "Enter_mobile_number": "Please enter mobile number",
+        "Name_error":"Please enter name.",
+        "Enter_name":"Enter your name",
+        "Enter_email":"Enter your email address",
+        "Enter_mobile":"Enter your mobile number",
+        "Location":"Locations",
+        "Add_more":"Add more",
+        "Save":"Save",
+        "location_details":"Location Details",
+        "Address":"Address",
+        "Street":"Street",
+        "City":"City",
+        "Name_Address":"Name Address",
+        "AddressError":"Please enter address.",
+        "NameaddressError":"Please enter name address."
+    
+    },
+    "OPTIONS":{
+        "Welcome":"Welcome !",
+        "Apply_as_pract":"Apply as a practitioner",
+        "Login":"Log in",
+        "Apply_Pract_alafiame":"Apply as a practioner to proivide your services with Alafiame",
+        "Login_to":"Login to start using your Alafiame practioner account"
+    },
+    "PERSONAL_DETAILS":{
+        "name_error":"Please enter first name.",
+        "email_error":"Please enter email.",
+        "phonenumber_error": "Please enter phone number",
+        "Password_error": "Please enter password."
+
+    },
+    "REQUESTS":{
+        "Bookingfor":"Booking for - ",
+        "Bookingduration":"Booking Duration - ",
+        "Block":"Block",
+        "Raise_Flag":"Raise Flag",
+        "YES": "Yes",
+        "NO": "No",
+        "Block_user":"Do you want to block this user?",
+        "care_about":"We  care about your safety!",
+        "Flag_raised_successfully":"Flag Raised Successfully!",
+        "Requests":"Requests",
+        "Total_Ernings":"Total Earnings",
+        "Floor":"Floor - ",
+        "Client_Note":"Client Note - ",
+        "Pet":"Pet - ",
+        "Allergy":"Allergy - ",
+        "Sensitive_Skin":"Sensitive Skin - ",
+        "Bookings":"Bookings",
+        "Booking_details":"Booking Details",
+        "are_you_sure_cancel":"Are you sure you want to cancel the booking?",
+        "Upcoming":"Upcoming",
+        "Today":"Today",
+        "Past_Booking":"Past Booking",
+        "Bill_details":"Bill details",
+        "service_fee":"service fee",
+        "Taxes":"Taxes",
+        "Total_bill":"Total Bill",
+        "Earning":"Earning - ",
+        "sure_Delete":"Are you sure you want to delete?"
+        
+       
+    },
+
+    "FORGOT_PASSWORD":{
+        "We_are_here":"We are here to help you.",
+        "Please_enter_your":"Please enter your password email here. We will help you to retrive your password.",
+        "Email_txt":"Email"
+    }
+}
